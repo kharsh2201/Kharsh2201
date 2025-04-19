@@ -1,4 +1,5 @@
-# About me
+# Hey 👋 I am Harsh
+
 ## I am a Senior Executive professional transitioning into the field of data analytics. With a strong foundation in problem-solving, analytical thinking, I have developed a passion for working with data and utilizing it to drive informed business decisions. My recent coursework and projects in data analytics have equipped me with the tools and knowledge to make this shift.
  I am passionate about uncovering actionable insights from data. The ability to transform raw information into meaningful patterns and strategies excites me. I am particularly interested in leveraging data to solve real-world problems, optimize processes, and enhance decision-making within organizations. Key Areas of Your Expertise in Excel, SQL, and Python Hands-on experience with data visualization platforms like Power BI and Tableau, Strong understanding of statistical analysis and data-driven storytelling Practical experience through my recent course from Skillovilla in Data Analytics, Excellent problem-solving skills honed through process optimization.
 I’m eager to connect with data professionals and explore opportunities where I can apply my analytical skills while continuing to grow in the data analytics space. 
