@@ -31,7 +31,7 @@ I thrive on solving real-world problems through data. Whether it’s understandi
 I’m actively exploring opportunities in the analytics space where I can **apply my skills, grow with real-world challenges, and collaborate with passionate data professionals**. If you're working on exciting data projects or looking for someone curious and committed—let’s connect!
 
 📫 Reach me at: `harshkesharwani2606@gmail.com`  
-🔗 [LinkedIn](https://www.linkedin.com/in/harsh-kesharwani) (if applicable)
+🔗 ([LinkedIn](https://www.linkedin.com/in/harsh-kesharwani-3578551a0/)) 
 
 ---
 
