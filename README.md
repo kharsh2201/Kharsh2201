@@ -1,5 +1,47 @@
-# Hey 👋 I am Harsh
+# 👋 Hello, I’m Harsh Kesharwani!
 
-## I am a Senior Executive professional transitioning into the field of data analytics. With a strong foundation in problem-solving, analytical thinking, I have developed a passion for working with data and utilizing it to drive informed business decisions. My recent coursework and projects in data analytics have equipped me with the tools and knowledge to make this shift.
- I am passionate about uncovering actionable insights from data. The ability to transform raw information into meaningful patterns and strategies excites me. I am particularly interested in leveraging data to solve real-world problems, optimize processes, and enhance decision-making within organizations. Key Areas of Your Expertise in Excel, SQL, and Python Hands-on experience with data visualization platforms like Power BI and Tableau, Strong understanding of statistical analysis and data-driven storytelling Practical experience through my recent course from Skillovilla in Data Analytics, Excellent problem-solving skills honed through process optimization.
-I’m eager to connect with data professionals and explore opportunities where I can apply my analytical skills while continuing to grow in the data analytics space. 
+🎯 **Senior Executive turned Aspiring Data Analyst**  
+📊 Passionate about data-driven problem-solving and business optimization
+
+---
+
+## 🌟 About Me
+
+I’m a results-oriented professional currently transitioning into the dynamic field of **Data Analytics**. With a strong foundation in **analytical thinking** and **problem-solving**, my interest in working with data has evolved into a full-blown passion for uncovering actionable insights and driving smarter business decisions.
+
+Over the last year, I’ve immersed myself in practical analytics training—earning certifications, building projects, and honing technical skills in:
+
+- 📌 **Languages**: Python, SQL  
+- 📌 **Tools**: Excel, Power BI, Tableau  
+- 📌 **Concepts**: Data Cleaning, Visualization, Statistical Analysis, Dashboarding  
+- 📌 **Soft Skills**: Business communication, storytelling with data, and process optimization  
+
+My recent projects include end-to-end data cleaning, dashboard creation, trend analysis, and business intelligence reporting, backed by a course from **Skillovilla**.
+
+---
+
+## 🔍 What Drives Me
+
+I thrive on solving real-world problems through data. Whether it’s understanding customer behavior, optimizing operations, or forecasting business outcomes—**I love turning raw data into meaningful strategies**.
+
+---
+
+## 💼 Let’s Connect!
+
+I’m actively exploring opportunities in the analytics space where I can **apply my skills, grow with real-world challenges, and collaborate with passionate data professionals**. If you're working on exciting data projects or looking for someone curious and committed—let’s connect!
+
+📫 Reach me at: `harshkesharwani2606@gmail.com`  
+🔗 [LinkedIn](https://www.linkedin.com/in/harsh-kesharwani) (if applicable)
+
+---
+
+🛠️ *Check out my repositories to see what I’m building and learning!*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
